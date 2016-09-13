@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 fdsaf
+modified
+=======
+asdffdsaf
+>>>>>>> Stashed changes
