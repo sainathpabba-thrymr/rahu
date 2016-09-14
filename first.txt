@@ -1,3 +1,7 @@
 first
+<<<<<<< HEAD
 for remote
 helooooo....working ha....
+=======
+dfsd
+>>>>>>> origin/new
